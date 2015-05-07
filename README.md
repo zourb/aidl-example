@@ -3,6 +3,8 @@
 This is a basic example of the Android Interface Definition Language, a component of the Android framework
 that allows to separate apps (processes) to communicate with each other using a "contract" (interface).
 
+![Screenshot](https://raw.githubusercontent.com/afollestad/aidl-example/master/art/screenshot.png)
+
 ### Using this example
 
 To observe this example project work, you must first install the `receiver` module on your device
