@@ -12,5 +12,5 @@ To observe this example project work, you must first install the `receiver` modu
 on your device. The `app` module will display UI that starts the service, binds with the service,
 and uses methods declared in the service.
 
-Note it also tells you how long it took to receive the entire respond from the Service, AIDL is *very* fast
+Note it also tells you how long it took to receive the entire response from the Service, AIDL is *very* fast
 compared to other forms of IPC.
